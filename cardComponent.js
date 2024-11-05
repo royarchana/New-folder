@@ -1,5 +1,5 @@
 import React from 'react';
-import './main.css';
+import './CardComponent.css';
 
 function box(){
     return(
